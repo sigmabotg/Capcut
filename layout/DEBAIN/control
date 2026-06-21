@@ -1,8 +1,0 @@
-Package: com.sigmabotg.capcutpro
-Name: CapCutPro
-Version: 1.0.0
-Architecture: iphoneos-arm
-Description: Unlock all CapCut Pro + Standard + Trial
-Author: sigmabotg
-Section: Tweaks
-Depends: mobilesubstrate (>= 0.9.5000)
